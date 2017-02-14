@@ -1,2 +1,14 @@
 c:\users\a507nzz\documents\visual studio 2013\Projects\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.exe.config
 C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.exe.config
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.exe
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.pdb
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.csprojResolveAssemblyReference.cache
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\MainWindow.baml
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\MainWindow.g.cs
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\App.g.cs
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler_MarkupCompile.cache
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.g.resources
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.Properties.Resources.resources
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.csproj.GenerateResource.Cache
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.exe
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\obj\Debug\DebtSnowballScheduler.pdb
