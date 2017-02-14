@@ -1,0 +1,2 @@
+c:\users\a507nzz\documents\visual studio 2013\Projects\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.exe.config
+C:\Users\a507nzz\Documents\Git Files\debt-snowball-scheduler\debt-snowball-scheduler\DebtSnowballScheduler\DebtSnowballScheduler\bin\Debug\DebtSnowballScheduler.exe.config
